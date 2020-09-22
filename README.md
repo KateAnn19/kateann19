@@ -7,7 +7,7 @@
 In my former life, I was an ABA therapist working with kids with autism and adults with disabilities before deciding I wanted to get into coding. In January 2019, I enrolled in my first Javascript course and as they say...the rest is history! 
 #
 📗 Education</br>
-📜 Lambda School, Remote, Full-stack Web Development Academy</br>
+📜 Lambda School, Remote, Full-stack Web Development Academy, [🏫LambaSchool](https://lambdaschool.com/)</br>
 📜 Masters in Education, University of Tulsa</br> 
 📜 BA in English, University of Science and Arts of Oklahoma</br>
 #
