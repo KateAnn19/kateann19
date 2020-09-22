@@ -12,9 +12,9 @@ In my former life, I was an ABA therapist working with kids with autism and adul
 📜 BA in English, University of Science and Arts of Oklahoma</br>
 #
 👯 Checkout my favorite projects</br>
-[✨ Landbnb Price Optimizer](https://airbnb-optimizer.vercel.app/)[🛠️Code](https://github.com/KateAnn19/Landbnb_Java_backend)</br>
-[✨ Replate Food Saving App](https://replate-version2.vercel.app/)[🛠️Code](https://github.com/KateAnn19/Replate_Version2)</br>
-[✨ Conway's Game of Life](https://kate-m-conwaysgameol.vercel.app/)[🛠️Code](https://github.com/KateAnn19/Conways_GOL)</br>
+[✨ Landbnb Price Optimizer](https://airbnb-optimizer.vercel.app/)[ 🛠️Code](https://github.com/KateAnn19/Landbnb_Java_backend)</br>[⚙️Tech Stack: Front-end: React, Redux, HTML, CSS]</br>
+[✨ Replate Food Saving App](https://replate-version2.vercel.app/)[ 🛠️Code](https://github.com/KateAnn19/Replate_Version2)[⚙️Tech Stack]()</br>
+[✨ Conway's Game of Life](https://kate-m-conwaysgameol.vercel.app/)[ 🛠️Code](https://github.com/KateAnn19/Conways_GOL)[⚙️Tech Stack]()</br>
 #
 🌱 I’m currently learning and improving...</br>
 HTML, CSS, React, Javascript
