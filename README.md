@@ -3,6 +3,10 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/kate-mcgee)
 [![]() ✉️ contact](mailto:mcgeehee@gmail.com)
 [![]()✨ Portfolio](https://kateann19.github.io/)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![Email badge](https://img.shields.io/badge/let's%20chat!-email-brightgreen)](mailto:mcgeehee@gmail.com)
+
+
 
 <!--
 **KateAnn19/kateann19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
