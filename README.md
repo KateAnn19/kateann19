@@ -11,6 +11,12 @@ In my former life, I was an ABA therapist working with kids with autism and adul
 📜 Masters in Education, University of Tulsa</br> 
 📜 BA in English, University of Science and Arts of Oklahoma</br>
 #
+👯 Checkout my favorite projects</br>
+[✨ Landbnb Price Optimizer](https://github.com/KateAnn19/Landbnb_Java_backend)
+[✨ Replate Food Saving App](https://github.com/KateAnn19/Replate_Version2)
+[✨ Conway's Game of Life](https://github.com/KateAnn19/Conways_GOL)
+
+#
 🌱 I’m currently learning and improving...</br>
 HTML, CSS, React, Javascript
 #
