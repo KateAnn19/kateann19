@@ -2,7 +2,7 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/kate-mcgee)
 [![]() ✉️ contact](mailto:mcgeehee@gmail.com)
-[![Portfolio badge](https://img.shields.io/badge/portfolio-✨-brightgreen) Portfolio](https://kateann19.github.io/)
+[![Portfolio badge](https://img.shields.io/badge/portfolio-✨-brightgreen)](https://kateann19.github.io/)
 [![Email badge](https://img.shields.io/badge/✉️-email-brightgreen)](mailto:mcgeehee@gmail.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
