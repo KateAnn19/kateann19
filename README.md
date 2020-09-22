@@ -1,6 +1,6 @@
 ### Kate :wave: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png](https://www.linkedin/kate-mcgee.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kate-mcgee)
 
 <!--
 **KateAnn19/kateann19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
