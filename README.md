@@ -1,8 +1,8 @@
 ### ⚡&nbsp;                               Kate 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/kate-mcgee)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kate-mcgee)](www.linkedin.com/in/kate-mcgee)
 [![Portfolio badge](https://img.shields.io/badge/portfolio-✨-brightgreen)](https://kateann19.github.io/)
-[![Email badge](https://img.shields.io/badge/✉️-email-brightgreen)](mailto:mcgeehee@gmail.com)
+[![Email badge](https://img.shields.io/badge/✉️-email-brightgreen)](mailto:mcgeehee@gmail.com)</br>
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
