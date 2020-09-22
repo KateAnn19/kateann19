@@ -1,4 +1,4 @@
-### Kate :wave: 
+### ⚡&nbsp;                               Kate 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/kate-mcgee)
 [![Portfolio badge](https://img.shields.io/badge/portfolio-✨-brightgreen)](https://kateann19.github.io/)
