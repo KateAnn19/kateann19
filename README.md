@@ -1,4 +1,4 @@
-### ⚡&nbsp;                               Kate 
+### ⚡&nbsp;                               Kate &nbsp;⚡
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kate-mcgee/)
 [![Portfolio badge](https://img.shields.io/badge/portfolio-✨-brightgreen)](https://kateann19.github.io/)
@@ -10,7 +10,7 @@ Originally from Tulsa, Oklahoma I moved to Boulder, Colorado in May 2016. I was 
 📜 Lambda School, Remote, Full-stack Web Development Academy</br>
 📜 Masters in Education, University of Tulsa</br> 
 📜 BA in English, University of Science and Arts of Oklahoma</br>
-
+#
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 <!--
