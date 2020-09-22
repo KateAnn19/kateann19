@@ -1,7 +1,8 @@
 ### Kate :wave: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kate-mcgee)
-[![]() ✉️](mailto:mcgeehee@gmail.com)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/kate-mcgee)
+[![]() ✉️ contact](mailto:mcgeehee@gmail.com)
+[![]()✨ Portfolio](https://kateann19.github.io/)
 
 <!--
 **KateAnn19/kateann19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
