@@ -11,7 +11,7 @@ In my former life, I was an ABA therapist working with kids with autism and adul
 📜 Masters in Education, University of Tulsa</br> 
 📜 BA in English, University of Science and Arts of Oklahoma</br>
 #
-👯 Checkout my favorite projects</br>
+🔥 Checkout my favorite projects</br>
 [✨ Landbnb Price Optimizer](https://airbnb-optimizer.vercel.app/)[ 🛠️Code](https://github.com/KateAnn19/Landbnb_Java_backend)</br>
 ⚙️Tech Stack: Front-end/Back-end: React, Redux, HTML, CSS, Java, Spring, SQL</br>
 [✨ Replate Food Saving App](https://replate-version2.vercel.app/)[ 🛠️Code](https://github.com/KateAnn19/Replate_Version2)</br>⚙️Tech Stack: Front-end/Back-end: React, Redux, HTML, CSS, Node, Express</br>
