@@ -18,7 +18,8 @@ In my former life, I was an ABA therapist working with kids with autism and adul
 [✨ Conway's Game of Life](https://kate-m-conwaysgameol.vercel.app/)[ 🛠️Code](https://github.com/KateAnn19/Conways_GOL)</br>⚙️Tech Stack: Front-end: React, Javascript, HTML, CSS</br>
 #
 🌱 I’m currently learning and improving...</br>
-Java Master Class on Udemy
+Java Master Class on Udemy</br>
+[Javascript 30](https://github.com/KateAnn19/JavaScript30)
 #
 🔭 I’m currently working on ...</br>
 Replate - a fullstack web application built in React with a Node,Express back-end
