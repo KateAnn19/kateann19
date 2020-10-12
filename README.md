@@ -4,7 +4,7 @@
 [![Portfolio badge](https://img.shields.io/badge/portfolio-✨-brightgreen)](https://kateann19.github.io/)
 [![Email badge](https://img.shields.io/badge/✉️-contact-brightgreen)](mailto:mcgeehee@gmail.com)</br>
 #
-In my former life, I was an ABA therapist working with kids with autism and adults with disabilities before deciding I wanted to get into coding. In January 2019, I enrolled in my first Javascript course and as they say...the rest is history! 
+I'm a software developer in Boulder, Colorado. I love solving problems and designing awesome wbesites and products. I was an ABA therapist working with kids and adults with autism before switching to software development, and I use the focus and tenacity I gained from that field to drive me to make better products and write cleaner code. 
 #
 📗 Education</br>
 📜 Lambda School, Remote, Full-stack Web Development Academy, [🏫LambaSchool](https://lambdaschool.com/)</br>
