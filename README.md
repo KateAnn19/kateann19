@@ -4,7 +4,7 @@
 [![Portfolio badge](https://img.shields.io/badge/portfolio-✨-brightgreen)](https://kateann19.github.io/)
 [![Email badge](https://img.shields.io/badge/✉️-contact-brightgreen)](mailto:mcgeehee@gmail.com)</br>
 #
-I'm a software developer in Boulder, Colorado. I love solving problems and designing awesome wbesites and products. I was an ABA therapist working with kids and adults with autism before switching to software development, and I use the focus and tenacity I gained from that field to drive me to make better products and write cleaner code. 
+I'm a software developer in Boulder, Colorado. I love solving problems and designing awesome websites and products. I was an ABA therapist working with kids and adults with autism before switching to software development, and I use the perspective I gained from that field to improve user experience and accessibility for all types of users. My focus and tenacity I sharpened in working in ABA helps me stay focused in my daily work and gives me the strength to push past roadblocks and not give up until I've solved something. I also have OCD. My OCD is a curse in some ways and a blessing in others. It can make simple things hard, but it also gives me laser focus and an unstoppable drive to understand things at deeper levels and to be the best at what I do. I also have a natural curiosity, and I don't feel settled until I understand things completely. I'm looking to join a team that has solid practices, challenges and allows me to grow, believes in work/life balance and strives to do things in the best way possible. 
 #
 📗 Education</br>
 📜 Lambda School, Remote, Full-stack Web Development Academy, [🏫LambaSchool](https://lambdaschool.com/)</br>
