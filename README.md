@@ -15,7 +15,7 @@ I'm a software developer in Boulder, Colorado. I love solving problems and desig
 [✨ Landbnb Price Optimizer](https://airbnb-optimizer.vercel.app/)[ 🛠️Code](https://github.com/KateAnn19/Landbnb_Java_backend)</br>
 ⚙️Tech Stack: Front-end/Back-end: Javascript, React, Redux, HTML, CSS, Java, Spring, SQL</br>
 [✨ Replate Food Saving App](https://replate-version2.vercel.app/)[ 🛠️Code](https://github.com/KateAnn19/Replate_Version2)</br>⚙️Tech Stack: Front-end/Back-end: Javascript, React, Redux, HTML, CSS, Node, Express</br>
-[✨ Conway's Game of Life](https://kate-m-conwaysgameol.vercel.app/)[ 🛠️Code](https://github.com/KateAnn19/Conways_GOL)</br>⚙️Tech Stack: Front-end: React, Javascript, HTML, CSS</br>
+[✨ Conway's Game of Life](https://kate-m-conwaysgameol.vercel.app/)[ 🛠️Code](https://github.com/KateAnn19/Conways_GOL/tree/kate-mcgee/conways)</br>⚙️Tech Stack: Front-end: React, Javascript, HTML, CSS</br>
 #
 🌱 I’m currently learning and improving...</br>
 Java Master Class on Udemy</br>
